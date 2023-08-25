@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+
+}
+form{
+    background-color: #e38bc9;
+}
+.container{
+    display: flex;
+}
